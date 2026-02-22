@@ -1,0 +1,15 @@
+{
+    "chat.promptFilesRecommendations": {
+        "stk.specify": true,
+        "stk.plan": true,
+        "stk.tasks": true,
+        "stk.implement": true
+    },
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.suggestOnTriggerCharacters": true
+}
+

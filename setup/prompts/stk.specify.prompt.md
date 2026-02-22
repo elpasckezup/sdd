@@ -1,0 +1,3 @@
+---
+agent: stk.specify
+---
